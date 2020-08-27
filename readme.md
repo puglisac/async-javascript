@@ -1,0 +1,3 @@
+## Async JavaScript
+
+These two folders contain the same exercises using two different methods.  numbers-facts makes calls to the numbers-facts API, deck-of-cards makes calls to the deck of cards API, and pokemon makes calls to the pokemon API.  Files in the promise foler uses *javascript pormises* to make the calls and handle the responses, while the files in the async foler uses *async* and *await*. 
